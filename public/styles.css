@@ -2,17 +2,17 @@
 @font-face {
   font-family: "MyFont";
   font-weight: 100;
-  src: url("./fonts/Quicksand-Light.ttf");
+  src: url("fonts/Quicksand-Light.ttf");
 }
 @font-face {
   font-family: "MyFont";
   font-weight: 700;
-  src: url("./fonts/Quicksand-Bold.ttf");
+  src: url("fonts/Quicksand-Bold.ttf");
 }
 @font-face {
   font-family: "MyFont";
   font-weight: 400;
-  src: url("./fonts/Quicksand-Regular.ttf");
+  src: url("fonts/Quicksand-Regular.ttf");
 }
 @font-face {
   font-family: "MyFont2";
